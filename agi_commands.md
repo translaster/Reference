@@ -1,6 +1,5 @@
 # AGI Commands
-## Asterisk 14 AGICommand_answer
-**ANSWER**
+## ANSWER
 ### Synopsis
 Answer channel
 ### Description
@@ -11,10 +10,9 @@ ANSWER
 ```
 **Arguments**
 ### See Also
-[Asterisk 14 AGICommand_hangup](Asterisk-14-AGICommand_hangup)
+[Asterisk 14 AGICommand_hangup](#HANGUP)
 
-## Asterisk 14 AGICommand_asyncagi break
-**ASYNCAGI BREAK**
+## ASYNCAGI BREAK
 ### Synopsis
 Interrupts Async AGI
 ### Description
@@ -25,10 +23,9 @@ ASYNCAGI BREAK
 ```
 **Arguments**
 ### See Also
-[Asterisk 14 AGICommand_hangup]
+[Asterisk 14 AGICommand_hangup](#HANGUP)
 
-## Asterisk 14 AGICommand_channel status
-**CHANNEL STATUS**
+## CHANNEL STATUS
 ### Synopsis
 Returns status of the connected channel.
 ### Description
@@ -50,8 +47,7 @@ CHANNEL STATUS CHANNELNAME
 channelname
 ### See Also
 
-## Asterisk 14 AGICommand_control stream file
-**CONTROL STREAM FILE**
+## CONTROL STREAM FILE
 ### Synopsis
 Sends audio file on channel and allows the listener to control the stream.
 ### Description
@@ -78,8 +74,7 @@ CONTROL STREAM FILE FILENAME ESCAPE_DIGITS SKIPMS FFCHAR REWCHR PAUSECHR OFFSETM
 * offsetms - Offset, in milliseconds, to start the audio playback
 ### See Also
 
-## Asterisk 14 AGICommand_database del
-**DATABASE DEL**
+## DATABASE DEL
 ### Synopsis
 Removes database key/value
 ### Description
@@ -94,8 +89,7 @@ DATABASE DEL FAMILY KEY
 * key
 ### See Also
 
-## Asterisk 14 AGICommand_database deltree
-**DATABASE DELTREE**
+## DATABASE DELTREE
 ### Synopsis
 Removes database keytree/value
 ### Description
