@@ -93,3 +93,19 @@ DATABASE DEL FAMILY KEY
 * family
 * key
 ### See Also
+
+## Asterisk 14 AGICommand_database deltree
+**DATABASE DELTREE**
+### Synopsis
+Removes database keytree/value
+### Description
+Deletes a family or specific keytree within a family in the Asterisk database.
+Returns `1` if successful, `0` otherwise.
+### Syntax
+```
+DATABASE DELTREE FAMILY KEYTREE
+```
+**Arguments**
+* family
+* keytree
+### See Also

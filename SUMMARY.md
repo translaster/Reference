@@ -14,14 +14,22 @@
 
 3.1.4 Asterisk 14 AGICommand_control stream file
 
-3.1.5 Asterisk 14 AGICommand_database del . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
-3.1.6 Asterisk 14 AGICommand_database deltree . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
-3.1.7 Asterisk 14 AGICommand_database get . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
-3.1.8 Asterisk 14 AGICommand_database put . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
-3.1.9 Asterisk 14 AGICommand_exec . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
-3.1.10 Asterisk 14 AGICommand_get data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
-3.1.11 Asterisk 14 AGICommand_get full variable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
-3.1.12 Asterisk 14 AGICommand_get option . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+3.1.5 Asterisk 14 AGICommand_database del
+
+3.1.6 Asterisk 14 AGICommand_database deltree
+
+3.1.7 Asterisk 14 AGICommand_database get
+
+3.1.8 Asterisk 14 AGICommand_database put
+
+3.1.9 Asterisk 14 AGICommand_exec
+
+3.1.10 Asterisk 14 AGICommand_get data
+
+3.1.11 Asterisk 14 AGICommand_get full variable
+
+3.1.12 Asterisk 14 AGICommand_get option
+
 3.1.13 Asterisk 14 AGICommand_get variable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
 3.1.14 Asterisk 14 AGICommand_gosub . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
 3.1.15 Asterisk 14 AGICommand_hangup . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
