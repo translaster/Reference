@@ -1,6 +1,6 @@
-1. New in 14
+1. Новое в 14
 
-2. Upgrading to Asterisk 14
+2. Обновлено в Asterisk 14
 
 3. [Asterisk 14 Command Reference](agi_commands.md)
 
