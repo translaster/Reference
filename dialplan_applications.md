@@ -21,14 +21,14 @@ ChanSpy([chanprefix,[options]])
 #### Аргументы
 * chanprefix
 * options
-  - b - Only spy on channels involved in a bridged call.
-  - B - Instead of whispering on a single channel barge in on both channels involved in the call.
+  - b - Только прослушивать каналы, участвующие в вызове.
+  - B - вместо того, чтобы шептать одному каналу, говорить в оба канала, участвующих в вызове.
   - c
-    - digit - Specify a DTMF digit that can be used to spy on the next available channel.
-  - d - Override the typical numeric DTMF functionality and instead use DTMF to switch between spy modes.
-    - 4 - spy mode
-    - 5 - whisper mode
-    - 6 - barge mode
+    - digit - Укажите цифру DTMF, которая может использоваться для слежки за следующим доступным каналом.
+  - d - Переопределить типичные функции числового DTMF и вместо того, чтобы использовать DTMF для переключения между режимами шпионажа.
+    - 4 - режим шпионажа
+    - 5 - режим шопота
+    - 6 - режим "врывания"
   - e - Enable enforced mode, so the spying channel can only monitor extensions whose name is in the ext : delimited list.
     - ext
   - E - Exit when the spied-on channel hangs up.
@@ -53,8 +53,10 @@ ChanSpy([chanprefix,[options]])
     - digit - Specify a DTMF digit that can be used to exit the application while actively spying on a channel. If there is no channel being spied on, the DTMF digit will be ignored.
   - X - Allow the user to exit ChanSpy to a valid single digit numeric extension in the current context or the context specified by the `SPY_EXIT_CONTEXT` channel variable. The name of the last channel that was spied on will be stored in the SPY_CHANNEL variable.
 
-### See Also
+### Смотри также
 
 [Asterisk 14 Application_ExtenSpy](#ExtenSpy)
+
 [Asterisk 14 ManagerEvent_ChanSpyStart](ami_events.md#chanspystart)
-[Asterisk 14 ManagerEvent_ChanSpyStop]
+
+[Asterisk 14 ManagerEvent_ChanSpyStop](ami_events.md#chanspystop)
