@@ -4,33 +4,33 @@
 
 3. [Asterisk 14 Command Reference](agi_commands.md)
 
-3.1 [Asterisk 14 AGI Commands](agi_commands.md)
+  3.1 [Asterisk 14 AGI Commands](agi_commands.md)
 
-3.1.1 [ANSWER](agi_commands.md#ANSWER)
+    3.1.1 [ANSWER](agi_commands.md#ANSWER)
 
-3.1.2 [ASYNCAGY BREAK](agi_commands.md#ASYNCAGI-BREAK)
+    3.1.2 [ASYNCAGY BREAK](agi_commands.md#ASYNCAGI-BREAK)
 
-3.1.3 [CHANNEL STATUS](agi_commands.md#CHANNEL-STATUS)
+    3.1.3 [CHANNEL STATUS](agi_commands.md#CHANNEL-STATUS)
 
-3.1.4 [CONTROL STREAM FILE](agi_commands.md#CONTROL-STREAM-FILE)
+    3.1.4 [CONTROL STREAM FILE](agi_commands.md#CONTROL-STREAM-FILE)
 
-3.1.5 [DATABASE DEL](agi_commands.md#DATABASE-DEL)
+    3.1.5 [DATABASE DEL](agi_commands.md#DATABASE-DEL)
 
-3.1.6 [DATABASE DELTREE](agi_commands.md#DATABASE-DELTREE)
+    3.1.6 [DATABASE DELTREE](agi_commands.md#DATABASE-DELTREE)
 
-3.2 [Asterisk 14 AMI Actions](ami_actions.md)
+  3.2 [Asterisk 14 AMI Actions](ami_actions.md)
 
-3.3 [Asterisk 14 AMI Events](ami_events.md)
+  3.3 [Asterisk 14 AMI Events](ami_events.md)
 
-3.4 [Asterisk 14 ARI](ari.md)
+  3.4 [Asterisk 14 ARI](ari.md)
 
-3.5 [Asterisk 14 Dialplan Applications](dialplan_applications.md)
+  3.5 [Asterisk 14 Dialplan Applications](dialplan_applications.md)
 
-3.5.23 [ChanSpy](dialplan_applications.md#chanspy)
+    3.5.23 [ChanSpy](dialplan_applications.md#chanspy)
 
-3.6 [Asterisk 14 Dialplan Functions](dialplan_functions.md)
+  3.6 [Asterisk 14 Dialplan Functions](dialplan_functions.md)
 
-3.7 [Asterisk 14 Module Configuration](module_configuration.md)
+  3.7 [Asterisk 14 Module Configuration](module_configuration.md)
 
 ---
 
